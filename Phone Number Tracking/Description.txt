@@ -1,0 +1,11 @@
+Python 3.6
+
+phonenumbers 8.12.15
+
+pip install phonenumbers
+
+1. Convert String to phonenumber format
+2. Get Timezone
+3. Extract phone numbers from text
+4. Carrier and Region of a Phone Number
+5. Validation of a phone number
